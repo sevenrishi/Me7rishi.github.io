@@ -21,8 +21,9 @@
 }
 #dark-btn{
     position: absolute;
-    top: 20px;
-    right: 20px;
+    position:center;
+    /*top: 20px;
+    right: 20px;*/
     background: #ccc;
     width: 45px;
     border-radius: 15px;
